@@ -1,4 +1,4 @@
-# automateAPI
+# autocomplete API
 
 Project Overview
 All possible names are extracted from an undocumented autocomplete API at http://35.200.185.69:8000 in this project. The API’s behavior is explored, constraints are managed, and results are documented without official guidance.
